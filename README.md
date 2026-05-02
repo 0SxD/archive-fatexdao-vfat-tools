@@ -1,5 +1,7 @@
 ## vfat.tools
 
+> Personal archive fork by Sage / 0SxD. See ARCHIVE_NOTICE.md for prior-associations disclaimer and current research continuity.
+
 _It ain't much, but it's honest work_
 
 App : https://vfat.tools
